@@ -1,0 +1,2 @@
+Git/GitHub version control 
+less (can cover to css) for building theme
